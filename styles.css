@@ -1,0 +1,84 @@
+.postext{
+	line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;}
+.gbackimg{
+	background-image:url("944676-nature.jpg");
+	background-size: cover;
+	height:500px
+	line-height: 200px;
+    height: 500px;
+    text-align: center;
+}
+.dropdown {
+	position:relative;
+	text-align: center;
+	display: inline-block;
+	background-color: pink;
+	background-size: cover
+	}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: white;
+	min-width: 90px;
+	padding: 12px 16px;
+	text-decoration: none;
+}
+.dropdown:hover .dropdown-content {
+	color: white;
+	display: block;
+}
+.dropdown:hover .dropbtn {
+    background-color: pink;
+}
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+.center {text-align: center;}
+div.container {
+	float: center
+    width: 90%;
+    border: 1px solid gray;
+
+}
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+    background-size: cover;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: pink;
+}
+   
+nav ul a {
+    text-decoration: none;
+    background-color: pink;
+}
+
+article {
+    margin-left: 1px;
+    border-left: 1px solid gray;
+    padding: 3em;
+    overflow: hidden;
+}
+#color {color: pink;}
+.background {
+	position: center;
+	width:20%
+	}
+.picture {
+	background-image: 90%
+	size: 10%;
+}
+.Whtxt{color: white;
+font-size: 26px}
